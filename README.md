@@ -4,4 +4,4 @@
 Two simple commands in bash to create scheduled script to terminate a program using:
 
        schtasks
-       task kill
+       taskkill
