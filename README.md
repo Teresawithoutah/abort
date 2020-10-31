@@ -7,7 +7,7 @@ Two simple commands in bash to create scheduled script to terminate a program us
        taskkill
 
 
-Download folder
-Edit script to specify which program you want to kill 
-Launch correct directory in CMD
-Run schtasks.cmd
+Download folder </b>
+Edit script to specify which program you want to kill </b>
+Launch correct directory in CMD</b>
+Run schtasks.cmd <b>
